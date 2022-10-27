@@ -1,6 +1,6 @@
 # fl_components
 
-A new Flutter project.
+Es una aplicacion en la cual se muestran algunos de los componentes de flutter.
 
 ## Getting Started
 
